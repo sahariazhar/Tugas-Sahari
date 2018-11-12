@@ -17,7 +17,6 @@ System.out.println("Warna Flashdisk \t \t: "+this.warna");
 System.out.println("Merek Flashdisk \t \t: "+this.merek");
 System.out.println("Kapasitas Penyimpanan Flashdisk \t: "+this.kapasitaspenyimpanan+" GB");
 System.out.println("Harga Flashdisk \t \t: "Rp "+this.harga");
-
 	}
 }
 
